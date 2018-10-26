@@ -53,10 +53,10 @@ The main idea when developing Alignak is the flexibility which is our definition
       It is our scalability wish!
 
    * Easy to contribute: contribution has to be an easy process.
-      Alignak follow pycodestyle (former pep8), pylint and pep257 coding standards to ease code readability.
+      Alignak follows pycodestyle (former pep8), pylint and pep257 coding standards to ease code readability.
       Step by step help to contribute to the project can be found in the documentation.
 
-This is basically what Alignak is made of. May be add the *keep it simple* Linux principle and it's perfect.
+This is basically what Alignak is made of. Maybe add the *keep it simple* Linux principle and it's perfect.
 
 There is nothing we don't want, we consider every features / ideas. Feel free to join [by mail](mailto:contact@alignak.net) or on [the IRC #alignak channel](http://webchat.freenode.net/?channels=%23alignak) to discuss or ask for more information
 

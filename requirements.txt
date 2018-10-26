@@ -38,7 +38,7 @@ ujson==1.35
 numpy==1.14.3
 
 # SSL between the daemons
-# This requirement is only a requirement if you intend to use SLL for the inter-daemons
+# This requirement is only a requirement if you intend to use SSL for the inter-daemons
 # communication. As such, to avoid installing this library per default, commenting this line!
 # Uncomment or `pip install pyopenssl` if SSL must be used between the Alignak daemons
 # pyopenssl

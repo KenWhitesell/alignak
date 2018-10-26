@@ -66,14 +66,14 @@ The main idea when developing Alignak is the flexibility which is our definition
       Flexibility first!
 
    * Flexible: in an architecture point of view.
-      Alignak may be distributed across several servers, datacenters to suit the monitoring needs and constrints.
+      Alignak may be distributed across several servers, datacenters to suit the monitoring needs and constraints.
       It is our scalability wish!
 
    * Easy to contribute: contribution has to be an easy process.
-      Alignak follow pycodestyle (former pep8), pylint and pep257 coding standards to ease code readability.
+      Alignak follows pycodestyle (former pep8), pylint and pep257 coding standards to ease code readability.
       Step by step help to contribute to the project can be found in :ref:`Contributing <contributing/index>`
 
-This is basically what Alignak is made of. May be add the *keep it simple* Linux principle and it's perfect.
+This is basically what Alignak is made of. Maybe add the *keep it simple* Linux principle and it's perfect.
 
 There is nothing we don't want, we consider every features / ideas. Feel free to join `by mail <mailto:contact@alignak.net>`_ or on `the IRC #alignak <http://webchat.freenode.net/?channels=%23alignak>`_ to discuss or ask for more information
 
